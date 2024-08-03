@@ -1,0 +1,51 @@
+
+
+#iconSuccess:hover{
+    cursor: pointer;
+    background-color: green;
+    color: white !important;
+}
+.iconEdit:hover{
+    cursor: pointer;
+    border: 1px ridge rgb(170, 170, 0);
+}
+
+.iconDelete:hover{
+    cursor: pointer;
+    border: 1px ridge red;
+}
+#iconCloseForm:hover{
+    background-color: red;
+    color: white !important;
+    cursor: pointer;
+    border-radius: 5rem;
+    font-size: 40px;
+}
+#iconCloseEditForm:hover{
+    background-color: red;
+    color: white !important;
+    cursor: pointer;
+    border-radius: 5rem;
+    font-size: 40px;
+}
+#iconCloseForm{
+    font-size: 40px;
+    color: red;
+    border: 1px solid red;
+    border-radius: 5rem;
+}
+#iconAddForm:hover{
+    cursor: pointer;
+    background-color: green;
+    color: white !important;
+}
+#iconEditForm:hover{
+    cursor: pointer;
+    background-color: green;
+    color: white !important;
+}
+.iconSuccess:hover{
+    cursor: pointer;
+    background-color: green;
+    color: white !important;
+}
