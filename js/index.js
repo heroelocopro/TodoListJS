@@ -137,7 +137,7 @@ function agregarLista(id,tarea){
                 return;
             }
     };
-    lista.push(new Lista(id,tarea));
+    lista.push(new Lista(id,tarea,false));
     guardarLista(lista);
 
 }
